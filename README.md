@@ -24,11 +24,34 @@ Students can browse, enroll, and manage courses, while instructors can create an
 
 ---
 
-## Other Simple Projects
+## Other Projects
 
-### WaveRiders Squirrel Surf School
+ ### 1.  Movie Management System – A Movie Management Web App
+
+A **full-stack web application** to manage movies, genres, and directors. Users can add, edit, delete, and search movies, and view statistics with charts.
+
+**Key Features:**  
+- Movie, Genre, and Director Management (CRUD)  
+- Search movies by title  
+- View statistics with Matplotlib and Seaborn  
+- Simple and responsive UI  
+
+**Tech Stack:** Python | Flask | SQLite | HTML | CSS | Pandas | Matplotlib | Seaborn  
+
+[View Project on GitHub](https://github.com/Benjina-Paudyal/movie_management_system.git)
+
+---
+
+ ### 2.   WaveRiders Squirrel Surf School
+ 
 A **responsive HTML/CSS website** for a fictional surf school.  
-**Features:** Responsive layout, hero section, features, testimonials, interactive hamburger menu.
+
+**Features:** 
+-  Responsive layout
+-  Hero section 
+-  Features 
+-  Testimonials 
+-  Interactive hamburger menu
 
 [View Project on GitHub](https://github.com/Benjina-Paudyal/Responsive-Website-Project.git)
 
