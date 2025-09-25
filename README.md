@@ -53,7 +53,7 @@ A **responsive HTML/CSS website** for a fictional surf school.
 -  Testimonials 
 -  Interactive hamburger menu
 
-[View Project on GitHub](https://github.com/Benjina-Paudyal/Responsive-Website-Project.git)
+[View Project on GitHub](https://github.com/Benjina-Paudyal/Waveriders_Responsive_Website)
 
 ---
 
