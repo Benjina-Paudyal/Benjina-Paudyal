@@ -7,7 +7,7 @@ I have experience with C#, ASP.NET Core, Angular, Python, SQL, HTML, CSS, and Ja
 
 ## 🌐 Portfolio Website
 
-**[Benjina Paudyal – Portfolio](#)**  
+### Benjina Paudyal – Portfolio 
 A personal portfolio website built with **Angular** showcasing my projects, resume, and contact details.  
 It reflects my design skills, frontend knowledge, and attention to detail.
 
@@ -20,8 +20,8 @@ It reflects my design skills, frontend knowledge, and attention to detail.
 
 **Tech Stack:** Angular | Bootstrap | HTML | CSS  
 
-> 🖥️ View live demo:  
-> 📂 View on GitHub: https://github.com/Benjina-Paudyal/portfolio-website
+
+> [View Project on GitHub](https://github.com/Benjina-Paudyal/portfolio-website)
 
 ---
 
