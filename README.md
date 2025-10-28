@@ -22,6 +22,8 @@ It reflects my design skills, frontend knowledge, and attention to detail.
 
 
 > [View Project on GitHub](https://github.com/Benjina-Paudyal/portfolio-website)
+> 
+> [ View Live Demo ](https://benjina-paudyal.github.io/portfolio-website/)
 
 ---
 
