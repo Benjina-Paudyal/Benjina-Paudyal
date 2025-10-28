@@ -21,7 +21,7 @@ It reflects my design skills, frontend knowledge, and attention to detail.
 **Tech Stack:** Angular | Bootstrap | HTML | CSS  
 
 > 🖥️ View live demo:  
-> 📂 View on GitHub: 
+> 📂 View on GitHub: https://github.com/Benjina-Paudyal/portfolio-website
 
 ---
 
