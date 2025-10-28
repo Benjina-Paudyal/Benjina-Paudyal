@@ -1,11 +1,31 @@
-# Hi, I'm Benjina
+# Hi, I'm Benjina Paudyal
 
 I'm a full-stack web developer passionate about building responsive, secure, and user-friendly web applications.
 I have experience with C#, ASP.NET Core, Angular, Python, SQL, HTML, CSS, and JavaScript and enjoy learning new technologies.
 
 ---
 
-##  Featured Project
+## 🌐 Portfolio Website
+
+**[Benjina Paudyal – Portfolio](#)**  
+A personal portfolio website built with **Angular** showcasing my projects, resume, and contact details.  
+It reflects my design skills, frontend knowledge, and attention to detail.
+
+**Key Features:**
+- Responsive layout for desktop and mobile devices  
+- Smooth scrolling navigation and animated sections  
+- Projects section with detailed previews  
+- Downloadable resume  
+- Integrated contact and social links  
+
+**Tech Stack:** Angular | Bootstrap | HTML | CSS  
+
+> 🖥️ View live demo:  
+> 📂 View on GitHub: 
+
+---
+
+##   💻 Featured Project
 
 ### StudyJet - A Course Management System
 StudyJet is a full-stack course management system with Angular frontend and ASP.NET Core Web API backend.  
@@ -59,7 +79,9 @@ A **responsive HTML/CSS website** for a fictional surf school.
 
 ## Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/benjinapaudyal/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/benjinapaudyal/)  
+- 💻 [GitHub](https://github.com/Benjina-Paudyal)  
+- 📧 benjina.paudyal@gmail.com  
 ---
 
 
