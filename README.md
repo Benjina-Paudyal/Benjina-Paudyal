@@ -61,6 +61,7 @@ A **full-stack web application** to manage movies, genres, and directors. Users 
 **Tech Stack:** Python | Flask | SQLite | HTML | CSS | Pandas | Matplotlib | Seaborn  
 
 > [View Project on GitHub](https://github.com/Benjina-Paudyal/movie_management_system.git)
+> 
 > [View Live Demo ](https://movie-management-system-4acx.onrender.com/)
 
 ---
